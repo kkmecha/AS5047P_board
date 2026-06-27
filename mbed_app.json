@@ -1,8 +1,0 @@
-{
-    "target_overrides": {
-        "NUCLEO-F303K8": {
-            "target.clock_source": "HSI", 
-            "target.restrict_size": "0xF000"
-        }
-    }
-}
